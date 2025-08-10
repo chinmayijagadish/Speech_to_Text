@@ -7,9 +7,7 @@ A lightweight browser-based **Speech-to-Text** application built with **HTML, CS
 ## Features
 - Real-time speech recognition using the Web Speech API  
 - Start / Stop recording controls and visual recording indicator  
-- Live transcription display with automatic scrolling  
-- Download transcription as `.txt` file  
-- Support for multiple languages (where browser/engine allows)  
+- Live transcription display with automatic scrolling     
 - Easy-to-customize UI and styling
 
 ---
